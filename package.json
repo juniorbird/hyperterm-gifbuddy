@@ -1,0 +1,22 @@
+{
+  "name": "hyperterm-gifbuddy",
+  "version": "0.0.1",
+  "description": "Gif commentary as you type",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juniorbird/hyperterm-gifbuddy.git"
+  },
+  "keywords": [
+    "hyperterm"
+  ],
+  "author": "Wade Armstrong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/juniorbird/hyperterm-gifbuddy/issues"
+  },
+  "homepage": "https://github.com/juniorbird/hyperterm-gifbuddy#readme"
+}
